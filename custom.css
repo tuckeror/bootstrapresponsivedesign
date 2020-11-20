@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+header{
+    padding-top:40px;
+}
+
+nav{
+    padding-bottom:5px;
+}
+
+h1{
+    text-align: center;
+}
+
+}
+
+h6{
+    padding:10px;
+ }
+ 
+
+.img{
+    align-content: center;
+}
+
+
+footer{
+    text-align: center;
+    background-color: grey;
+    
+}
+
+
